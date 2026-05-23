@@ -1,0 +1,1 @@
+<w> [webpack.cache.PackFileCacheStrategy] Restoring pack from D:\Projects\Abegail\.next\cache\webpack\client-development.pack.gz failed: TypeError: Cannot read properties of undefined (reading 'hasStartTime')

@@ -1,0 +1,22 @@
+
+> abegail-collective@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3001
+
+ ✓ Starting...
+ ✓ Ready in 4.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (529 modules)
+ GET / 200 in 5386ms
+ ✓ Compiled in 262ms (265 modules)
+ GET / 200 in 49ms
+ ✓ Compiled in 2s (265 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 613ms (264 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1121ms (739 modules)
+ GET / 500 in 2054ms
+ GET / 200 in 94ms
+ GET / 200 in 32ms
