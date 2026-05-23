@@ -35,3 +35,99 @@ TypeError: __webpack_modules__[moduleId] is not a function
     at t (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115458) {
   page: '/'
 }
+ ⨯ TypeError: __webpack_modules__[moduleId] is not a function
+    at Object.__webpack_require__ [as require] (D:\Projects\Abegail\.next\server\webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+digest: "1118069122"
+TypeError: __webpack_modules__[moduleId] is not a function
+    at Object.__webpack_require__ [as require] (D:\Projects\Abegail\.next\server\webpack-runtime.js:33:42)
+    at require (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:19729)
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108279
+    at eo (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108464)
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:110693
+    at Object._fromJSON (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:111249)
+    at JSON.parse (<anonymous>)
+    at eu (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108958)
+    at en (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108026)
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115168
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115185
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115218
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115235
+    at t (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115458)
+ ⨯ TypeError: __webpack_modules__[moduleId] is not a function
+    at Object.__webpack_require__ [as require] (D:\Projects\Abegail\.next\server\webpack-runtime.js:33:42)
+    at require (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:19729)
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108279
+    at eo (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108464)
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:110693
+    at Object._fromJSON (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:111249)
+    at JSON.parse (<anonymous>)
+    at eu (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108958)
+    at en (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:108026)
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115168
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115185
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115218
+    at D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115235
+    at t (D:\Projects\Abegail\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:115458) {
+  page: '/'
+}
+ ⨯ Error: Cannot find module './682.js'
+Require stack:
+- D:\Projects\Abegail\.next\server\webpack-runtime.js
+- D:\Projects\Abegail\.next\server\pages\_document.js
+- D:\Projects\Abegail\node_modules\next\dist\server\require.js
+- D:\Projects\Abegail\node_modules\next\dist\server\load-components.js
+- D:\Projects\Abegail\node_modules\next\dist\build\utils.js
+- D:\Projects\Abegail\node_modules\next\dist\server\dev\hot-middleware.js
+- D:\Projects\Abegail\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- D:\Projects\Abegail\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\Projects\Abegail\node_modules\next\dist\server\lib\router-server.js
+- D:\Projects\Abegail\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1500:15)
+    at D:\Projects\Abegail\node_modules\next\dist\server\require-hook.js:55:36
+    at wrapResolveFilename (node:internal/modules/cjs/loader:1071:27)
+    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1095:10)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1116:12)
+    at Module._load (node:internal/modules/cjs/loader:1285:25)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1600:12)
+    at mod.require (D:\Projects\Abegail\node_modules\next\dist\server\require-hook.js:65:28)
+    at require (node:internal/modules/helpers:153:16)
+    at __webpack_require__.f.require (D:\Projects\Abegail\.next\server\webpack-runtime.js:198:28)
+    at D:\Projects\Abegail\.next\server\webpack-runtime.js:111:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (D:\Projects\Abegail\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (D:\Projects\Abegail\.next\server\webpack-runtime.js:162:22)
+    at D:\Projects\Abegail\.next\server\pages\_document.js:1:335
+    at Object.<anonymous> (D:\Projects\Abegail\.next\server\pages\_document.js:1:376)
+    at Module._compile (node:internal/modules/cjs/loader:1854:14)
+    at Object..js (node:internal/modules/cjs/loader:1985:10)
+    at Module.load (node:internal/modules/cjs/loader:1577:32)
+    at Module._load (node:internal/modules/cjs/loader:1379:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1600:12)
+    at mod.require (D:\Projects\Abegail\node_modules\next\dist\server\require-hook.js:65:28)
+    at require (node:internal/modules/helpers:153:16)
+    at requirePage (D:\Projects\Abegail\node_modules\next\dist\server\require.js:109:84)
+    at D:\Projects\Abegail\node_modules\next\dist\server\load-components.js:72:65
+    at async Promise.all (index 0)
+    at async loadComponentsImpl (D:\Projects\Abegail\node_modules\next\dist\server\load-components.js:71:33)
+    at async DevServer.findPageComponentsImpl (D:\Projects\Abegail\node_modules\next\dist\server\next-server.js:710:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Projects\\Abegail\\.next\\server\\webpack-runtime.js',
+    'D:\\Projects\\Abegail\\.next\\server\\pages\\_document.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\require.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\load-components.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\build\\utils.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'D:\\Projects\\Abegail\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'D:\Projects\Abegail\.next\cache\webpack\client-development\2.pack.gz_' -> 'D:\Projects\Abegail\.next\cache\webpack\client-development\2.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'D:\Projects\Abegail\.next\cache\webpack\client-development\0.pack.gz_' -> 'D:\Projects\Abegail\.next\cache\webpack\client-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'D:\Projects\Abegail\.next\cache\webpack\client-development\1.pack.gz_' -> 'D:\Projects\Abegail\.next\cache\webpack\client-development\1.pack.gz'
