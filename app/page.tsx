@@ -126,7 +126,7 @@ export default function Home() {
                 New season collection
               </span>
               <h1 className="font-display mt-7 text-5xl font-medium leading-[0.98] tracking-tight text-[#171717] sm:text-6xl lg:text-7xl">
-                Stop Shop HM Closet
+                Stop Shop <span className=' text-[#b98643]'>HM Closet</span>
               </h1>
               <div className="mt-8 h-0.5 w-12 bg-[#b98643]" />
               <p className="mt-8 max-w-lg text-base leading-8 text-[#5f5a52] sm:text-lg">
