@@ -16,8 +16,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'Abegail Collective',
-  description: 'A modern clothing collective with bold style and clean design.',
+  title: 'Stop Shop HM CLOSET',
+  description: 'A modern clothing shop with bold style and clean design.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

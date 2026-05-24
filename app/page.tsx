@@ -111,7 +111,7 @@ export default function Home() {
         <div className="relative mx-auto flex max-w-7xl flex-col gap-10 lg:gap-14">
           <header className="flex items-center justify-between gap-6 py-2">
             <Link href="/" className="font-display text-xl font-semibold text-[#171717]">
-              Abegail Collective
+              Stop Shop HM Closet
             </Link>
             <nav className="hidden items-center gap-7 text-sm font-medium text-[#5f5a52] sm:flex">
               <Link href="#shop" className="transition hover:text-[#171717]">Shop</Link>
@@ -126,7 +126,7 @@ export default function Home() {
                 New season collection
               </span>
               <h1 className="font-display mt-7 text-5xl font-medium leading-[0.98] tracking-tight text-[#171717] sm:text-6xl lg:text-7xl">
-                Abegail Collective
+                Stop Shop HM Closet
               </h1>
               <div className="mt-8 h-0.5 w-12 bg-[#b98643]" />
               <p className="mt-8 max-w-lg text-base leading-8 text-[#5f5a52] sm:text-lg">
@@ -337,7 +337,7 @@ export default function Home() {
               </div>
 
               <div className="rounded-[1.25rem] bg-[#f6f1e8] p-5">
-                <p className="text-xs font-semibold uppercase tracking-[0.22em] text-[#8a5a1f]">Abegail Collective</p>
+                <p className="text-xs font-semibold uppercase tracking-[0.22em] text-[#8a5a1f]">Stop Shop HM CLOSET</p>
                 <p className="mt-3 text-sm leading-6 text-[#5f5a52]">
                   Styled for polished everyday wear with a premium editorial finish.
                 </p>
